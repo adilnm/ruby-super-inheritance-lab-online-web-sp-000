@@ -1,3 +1,5 @@
 class Student
-  def 
+  def hello
+    puts ""
+  end
 end
